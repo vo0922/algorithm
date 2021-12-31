@@ -1,0 +1,3 @@
+﻿  linkedlist.cpp
+C:\Users\PSU\Desktop\박신욱\알고리즘\11-17\11-17\linkedlist.cpp(45,12): warning C4101: 'removed_prev' :참조되지 않은 지역 변수입니다.
+  11-17.vcxproj -> C:\Users\PSU\Desktop\박신욱\알고리즘\11-17\Debug\11-17.exe
